@@ -4,7 +4,7 @@ Check out my website at https://foxmaccloud.com/
 
 ---
 
-If you wanna reach out to me, you can hit me up on [TWitter](https://twitter.com/FoxMacSwagger) or [Discord](https://discord.gg/VHUKpca).
+If you wanna reach out to me, you can hit me up on [Twitter](https://twitter.com/FoxMacSwagger) or [Discord](https://discord.gg/VHUKpca).
 More info on my website
 
 
