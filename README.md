@@ -1,7 +1,7 @@
-### Hello, I’m Fox Maccloud!
+### Hello, I’m Fox Maccloud. I mainly hack stuff...
 
-[<img alt="FoxMaccloudPic" width="200" src="https://foxmaccloud.com/FoxTwitter.png" style="border-radius: 8px; float: left; margin-right:8px">](https://foxmaccloud.com/)
-I mainly do information security.
+<!--[<img alt="FoxMaccloudPic" width="200" src="https://foxmaccloud.com/FoxTwitter.png" style="border-radius: 8px; float: left; margin-right:8px">](https://foxmaccloud.com/)-->
+
 Check out my website at https://foxmaccloud.com/
 
 
