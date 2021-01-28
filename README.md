@@ -1,7 +1,6 @@
 ### Hello, I’m Fox Maccloud!
 
-[<img alt="FoxMaccloudPic" src="https://foxmaccloud.com/FoxTwitter.png" style="border-radius: 8px; width: 30%; float: left; margin-right:8px">](https://foxmaccloud.com/)
-
+[<img alt="FoxMaccloudPic" src="https://foxmaccloud.com/FoxTwitter.png" style="border-radius: 8px; width: 10%; float: left; margin-right:8px">](https://foxmaccloud.com/)
 I mainly do information security.
 
 Check out my website at https://foxmaccloud.com/
