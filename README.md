@@ -1,8 +1,12 @@
 ### Hello, I’m Fox Maccloud. I mainly hack stuff...
 
-<!--[<img alt="FoxMaccloudPic" width="200" src="https://foxmaccloud.com/FoxTwitter.png" style="border-radius: 8px; float: left; margin-right:8px">](https://foxmaccloud.com/)-->
-
 Check out my website at https://foxmaccloud.com/
+
+---
+
+If you wanna reach out to me, you can hit me up on [TWitter](https://twitter.com/FoxMacSwagger) or [Discord](https://discord.gg/VHUKpca).
+More info on my website
+
 
 
 
