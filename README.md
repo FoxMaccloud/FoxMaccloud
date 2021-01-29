@@ -1,4 +1,6 @@
-### Hello, I’m Fox Maccloud. I mainly hack stuff...
+### Hello, I’m Fox Maccloud.
+
+I do hacking stuff...
 
 Check out my website at https://foxmaccloud.com/
 
