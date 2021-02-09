@@ -43,4 +43,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 ##### A Smooth Sea Never Made a Skilled Sailor
+</div>
