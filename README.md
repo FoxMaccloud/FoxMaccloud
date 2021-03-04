@@ -21,17 +21,31 @@ Check out my website at https://foxmaccloud.com/
 </div>
 
 ---
-<div align="left">
+<ul style="width:10%; float:left;">
+      <li>1</li>
+      <li>2</li>
+   </ul>
+
+   <ul style="width:10%; float:left;">
+      <li>3</li>
+      <li>4</li>
+   </ul>
+
+
+
+
+<div style="width:50%; float:left;">
 
  If you wanna reach out to me, you can hit me up on [Twitter](https://twitter.com/FoxMacSwagger) or [Discord](https://discord.gg/VHUKpca).
 
  More info on my website.
 
- <div align="Right">
+</div>
+ 
+ <div style="width:50%; float:right;">
 
  ![FoxMaccloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoxMaccloud&show_icons=true&theme=synthwave)
 
- </div>
 </div>
 
 <!--
