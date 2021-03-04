@@ -23,13 +23,18 @@ Check out my website at https://foxmaccloud.com/
 ---
 
 <div align="left">
+ 
  If you wanna reach out to me, you can hit me up on [Twitter](https://twitter.com/FoxMacSwagger) or [Discord](https://discord.gg/VHUKpca).
 
  More info on my website.
+
 </div>
 
+
 <div align="right">
+
  ![FoxMaccloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoxMaccloud&show_icons=true&theme=synthwave)
+
 </div>
 
 <!--
