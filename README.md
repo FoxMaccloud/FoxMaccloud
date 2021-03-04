@@ -1,10 +1,10 @@
 <div align="center">
 
 ```
- █     █░▓█████  ██▓     ▄████▄   ▒█████   ███▄ ▄███▓▓█████ 
-▓█░ █ ░█░▓█   ▀ ▓██▒    ▒██▀ ▀█  ▒██▒  ██▒▓██▒▀█▀ ██▒▓█   ▀ 
+ █     █░▓█████  ██▓     ▄████▄   ▒█████   ███▄ ▄███▓▓█████
+▓█░ █ ░█░▓█   ▀ ▓██▒    ▒██▀ ▀█  ▒██▒  ██▒▓██▒▀█▀ ██▒▓█   ▀
 ▒█░ █ ░█ ▒███   ▒██░    ▒▓█    ▄ ▒██░  ██▒▓██    ▓██░▒███   
-░█░ █ ░█ ▒▓█  ▄ ▒██░    ▒▓▓▄ ▄██▒▒██   ██░▒██    ▒██ ▒▓█  ▄ 
+░█░ █ ░█ ▒▓█  ▄ ▒██░    ▒▓▓▄ ▄██▒▒██   ██░▒██    ▒██ ▒▓█  ▄
 ░░██▒██▓ ░▒████▒░██████▒▒ ▓███▀ ░░ ████▓▒░▒██▒   ░██▒░▒████▒
 ░ ▓░▒ ▒  ░░ ▒░ ░░ ▒░▓  ░░ ░▒ ▒  ░░ ▒░▒░▒░ ░ ▒░   ░  ░░░ ▒░ ░
   ▒ ░ ░   ░ ░  ░░ ░ ▒  ░  ░  ▒     ░ ▒ ▒░ ░  ░      ░ ░ ░  ░
@@ -18,6 +18,15 @@ I do hacking stuff...
 
 Check out my website at https://foxmaccloud.com/
 
+
+<a href="https://twitter.com/FoxMaccloud">
+  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/FoxMaccloud/FoxMaccloud/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/VHUKpca">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/FoxMaccloud/FoxMaccloud/master/assets/discord-round.svg" />
+</a>
+
+
 </div>
 
 ---
@@ -30,7 +39,7 @@ Check out my website at https://foxmaccloud.com/
  More info on my website.
 
 </div>
- 
+
 <div align="Right">
 
  ![FoxMaccloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoxMaccloud&show_icons=true&theme=tokyonight)
@@ -52,7 +61,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
- 
+
 ##### A Smooth Sea Never Made a Skilled Sailor
 
 </div>
