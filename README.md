@@ -20,10 +20,10 @@ Check out my website at https://foxmaccloud.com/
 
 
 <a href="https://twitter.com/FoxMaccloud">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/FoxMaccloud/FoxMaccloud/master/assets/twitter.svg" />
+  <img align="center" alt="FoxMaccloud | Twitter" width="21px" src="https://raw.githubusercontent.com/FoxMaccloud/FoxMaccloud/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.gg/VHUKpca">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/FoxMaccloud/FoxMaccloud/master/assets/discord-round.svg" />
+  <img align="center" alt="FoxMaccloud's Discord" width="21px" src="https://raw.githubusercontent.com/FoxMaccloud/FoxMaccloud/master/assets/discord-round.svg" />
 </a>
 
 
