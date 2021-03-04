@@ -21,7 +21,7 @@ Check out my website at https://foxmaccloud.com/
 </div>
 
 ---
-<div align="center">
+<div align="left">
 
  If you wanna reach out to me, you can hit me up on [Twitter](https://twitter.com/FoxMacSwagger) or [Discord](https://discord.gg/VHUKpca).
 
