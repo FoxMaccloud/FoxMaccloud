@@ -27,7 +27,11 @@ If you wanna reach out to me, you can hit me up on [Twitter](https://twitter.com
 More info on my website.
 
 
+<div align="right">
 
+ ![FoxMaccloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoxMaccloud&show_icons=true&theme=synthwave)
+
+</div>
 
 <!--
 **FoxMaccloud/FoxMaccloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
