@@ -23,7 +23,7 @@ Check out my website at https://foxmaccloud.com/
 ---
 
 
-<div position:fixed; float:left>
+<div align="left">
 
  If you wanna reach out to me, you can hit me up on [Twitter](https://twitter.com/FoxMacSwagger) or [Discord](https://discord.gg/VHUKpca).
 
@@ -31,7 +31,7 @@ Check out my website at https://foxmaccloud.com/
 
 </div>
  
- <div position:fixed; float:right>
+<div align="Right">
 
  ![FoxMaccloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoxMaccloud&show_icons=true&theme=synthwave)
 
