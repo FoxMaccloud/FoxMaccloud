@@ -13,6 +13,9 @@
                         ░                                   
 ```
 
+![screen-gif](./assets/cp2221.gif)
+ 
+ 
 ### Hello, I’m Fox Maccloud.
 
 I do hacking stuff...
@@ -34,9 +37,6 @@ Check out my website at https://foxmaccloud.com/
 
 
 <div align="left">
- 
- ### On break!
- I'm getting a little burned out due to a ton of responsibilities outside of projects on github.
 
  If you wanna reach out to me, you can hit me up on [Twitter](https://twitter.com/FoxMacSwagger) or [Discord](https://discord.gg/VHUKpca).
 
