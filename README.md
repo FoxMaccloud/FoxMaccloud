@@ -47,6 +47,7 @@ Check out my website at https://foxmaccloud.com/
 <div align="Right">
 
  ![FoxMaccloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoxMaccloud&show_icons=true&theme=tokyonight)
+ ![FoxMaccloud's Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoxMaccloud&langs_count=4&theme=tokyonight&line_height=35&hide=cmake)
 
 </div>
 
